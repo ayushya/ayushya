@@ -1,7 +1,7 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/ayushya/ayushya/main/wave.gif" width="30px">
 
 My name is Ayushya Jaiswal and I'm a software engineer.
-I'm from Indore, living in Bengaluru and currently working at UiPath. You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
+I'm from Indore, living in Bengaluru and currently working at UiPath. You can find me on [web][4], or [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
 
 ## &#x270d; Blog & Writing
 
@@ -61,6 +61,7 @@ Apart from engineering great Products, I love writing and maintain a blog at [Me
 [1]: https://twitter.com/ayushya_jaiswal
 [2]: https://github.com/ayushya
 [3]: https://www.linkedin.com/in/ayushyajaiswal/
+[4]: https://ayushya.github.io/
 
 
 <!-- Resources -->
